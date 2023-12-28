@@ -20,6 +20,12 @@
 			<checksum>https://github.com/cralin/repository.cralin.repodata/raw/Kodi_20/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/cralin/repository.cralin.repodata/raw/Kodi_20/.packages</datadir>
 		</dir>
+		<dir minversion="21.0.0" maxversion="21.80.00">
+			<hashes>false</hashes>
+			<info compressed="false">https://github.com/cralin/repository.cralin.repodata/raw/Kodi_21/addons.xml</info>
+			<checksum>https://github.com/cralin/repository.cralin.repodata/raw/Kodi_21/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/cralin/repository.cralin.repodata/raw/Kodi_21/.packages</datadir>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>cralin's Repository</summary>
